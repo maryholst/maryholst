@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I'm Mary 👋  <br>Web Developer based in Indianapolis  <br><br>🔭 Currently working on: Interactive web projects  <br>🌱 Currently learning: JavaScript, Node, React  <br>🎯 Goal: Land a frontend developer role  <br><br>⚡ Fun fact: I enjoy debugging more than I should
+Hi, I'm Mary 👋  <br>Junior Software Engineer based in Indianapolis  <br><br>🔭 Currently working on: Interactive web projects using React  <br>🌱 Currently learning: Backend and Exress.js  <br>🎯 Goal: Land a frontend developer role  <br><br>⚡ Fun fact: I enjoy debugging more than I should
 
 
 ## 🌐 Socials:
