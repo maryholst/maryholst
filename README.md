@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I'm Mary 👋<br>Junior Software Engineer based in Indianapolis<br><br>🔭 Currently working on: Building functional servers using node.js and express<br>🌱 Currently learning: Backend<br>🎯 Goal: Land a Junior Software Engineering role<br><br>⚡ Fun fact: I think JavaScript is ART
+Hi, I'm Mary 👋<br>Junior Software Engineer based in Indianapolis<br><br>🔭 Currently working on: Building functional servers using node.js and express<br>🌱 Currently learning: Authentication<br>🎯 Goal: Land a Backend Dev/Engineering role<br><br>⚡ Fun fact: I think JavaScript is ART
 
 
 ## 🌐 Socials:
